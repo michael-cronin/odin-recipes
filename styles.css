@@ -1,0 +1,30 @@
+* {background-color: red;}
+
+body {text-align: center;}
+
+#header {
+    font-size: 48px;
+    font-weight: 400;
+    background-color: aquamarine;
+}
+
+.list {
+    font-size: 22px;
+    background-color: rgb(240, 240, 245);
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+/* Chickenparm recipe */
+
+.chickenlist {
+    background-color: orange;
+    font-weight: bold;
+    font-size: medium;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
